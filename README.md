@@ -2,3 +2,5 @@
 
 Provides and overview of the Dgital IC VLSI Design project 
 
+![image](VLSILayout.png)
+
