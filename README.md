@@ -12,6 +12,6 @@ Provides and overview of the Dgital IC VLSI Design project
 
 ![image](VLSI_Design_Certification.jpg)
 
-Additional courses in Santa Clara include: https://github.com/alpaddesai/PCBSignalIntegrity_EEM
+Additional courses in Santa Clara include: https://github.com/alpaddesai/PCBSignalIntegrity_EEM  and https://github.com/alpaddesai/WirelessNetworkingProducts
 
 
