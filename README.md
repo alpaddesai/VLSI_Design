@@ -14,6 +14,4 @@ Provides and overview of the Dgital IC VLSI Design project
 
 Advanced knowledge reference : https://github.com/alpaddesai/SystemVerilog  and https://github.com/alpaddesai/SemiConductorSolidStateDevices
 
-Additional graduate level projects focused on this certificate program in Santa Clara University, Santa Clara, CA include: https://github.com/alpaddesai/PCBSignalIntegrity_EEM  and https://github.com/alpaddesai/WirelessNetworkingProducts
-
 
