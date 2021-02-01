@@ -12,6 +12,6 @@ Provides and overview of the Dgital IC VLSI Design project
 
 ![image](VLSI_Design_Certification.jpg)
 
-Advanced knowledge reference : https://github.com/alpaddesai/SystemVerilog  and https://github.com/alpaddesai/SemiConductorSolidStateDevices
+Advanced knowledge reference : https://github.com/alpaddesai/SystemVerilog , https://github.com/alpaddesai/ICPackageDesign and https://github.com/alpaddesai/SemiConductorSolidStateDevices
 
 
