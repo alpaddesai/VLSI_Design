@@ -2,9 +2,11 @@
 
 Provides and overview of the Dgital IC VLSI Design project.
 
+## VLSI
+![image](image1.jpg)
+
 ## Schematic Design
 ![image](SchematicDesign.png)
-
 
 ## Layout
 ![image](VLSILayout.png)
