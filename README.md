@@ -8,6 +8,8 @@ Provides and overview of the Dgital IC VLSI Design project.
 ## Schematic Design
 ![image](SchematicDesign.png)
 ![image](DRAM.png)
+![image](DRAM_Orcad.png)
+![image](SRAM.jpg)
 
 ## Layout
 ![image](VLSILayout.png)
