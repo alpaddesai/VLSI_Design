@@ -18,6 +18,9 @@ Provides and overview of the Dgital IC VLSI Design project.
 
 ![image](VLSI_Design_Certification.jpg)
 
+## Ethics and Excellence
+![image](EthicsandExcellence.png)
+
 Advanced knowledge reference :  https://github.com/alpaddesai/FirmwareDesign and https://github.com/alpaddesai/MixedSignal_SystemOnChip
 
 
