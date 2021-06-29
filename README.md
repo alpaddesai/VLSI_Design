@@ -18,6 +18,6 @@ Provides and overview of the Dgital IC VLSI Design project.
 
 ![image](VLSI_Design_Certification.jpg)
 
-Advanced knowledge reference :  https://github.com/alpaddesai/FirmwareDesign
+Advanced knowledge reference :  https://github.com/alpaddesai/FirmwareDesign and https://github.com/alpaddesai/MixedSignal_SystemOnChip
 
 
