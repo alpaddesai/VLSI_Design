@@ -1,4 +1,4 @@
-# Digital Iintegrated Cicuit VLSI Design
+# Digital Iintegrated Circuit VLSI Design
 
 Provides and overview of the Dgital IC VLSI Design project.
 
@@ -21,6 +21,6 @@ Provides and overview of the Dgital IC VLSI Design project.
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
-Advanced knowledge reference :  https://github.com/alpaddesai/FirmwareDesign , https://github.com/alpaddesai/AnalogDesign and https://github.com/alpaddesai/MixedSignal_SystemOnChip
+Advanced knowledge reference :  https://github.com/alpaddesai/FirmwareDesign , https://github.com/alpaddesai/AnalogDesign , https://github.com/alpaddesai/ComputerArchitecture and https://github.com/alpaddesai/MixedSignal_SystemOnChip
 
 
