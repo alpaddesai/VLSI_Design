@@ -1,6 +1,6 @@
 # Digital Integrated Circuit VLSI Design
 
-Provides and overview of the Dgital IC VLSI Design project.
+Provides and overview of the Digital IC VLSI Design project.
 
 ## VLSI
 ![image](image1.jpg)
