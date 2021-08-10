@@ -1,4 +1,4 @@
-# Digital Iintegrated Circuit VLSI Design
+# Digital Integrated Circuit VLSI Design
 
 Provides and overview of the Dgital IC VLSI Design project.
 
