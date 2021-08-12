@@ -21,7 +21,7 @@ Provides and overview of the Digital IC VLSI Design project.
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
-Advanced knowledge reference :  https://github.com/alpaddesai/FirmwareDesign , https://github.com/alpaddesai/AnalogDesign , https://github.com/alpaddesai/ComputerArchitecture , https://github.com/alpaddesai/RFMicroelectronics , https://github.com/alpaddesai/EmbeddedDesign, https://github.com/alpaddesai/PCBSignalIntegrity_EEM  and https://github.com/alpaddesai/MixedSignal_SystemOnChip
+Advanced knowledge reference :  https://github.com/alpaddesai/FirmwareDesign , https://github.com/alpaddesai/AnalogDesign , https://github.com/alpaddesai/ComputerArchitecture , https://github.com/alpaddesai/RFMicroelectronics , https://github.com/alpaddesai/EmbeddedDesign, https://github.com/alpaddesai/PCBSignalIntegrity_EEM , https://github.com/alpaddesai/WirelessNetworkingProducts and https://github.com/alpaddesai/MixedSignal_SystemOnChip
 
 Further Details Reference: 
 https://github.com/alpaddesai/PowerandInfluentialSkills and https://github.com/alpaddesai/MSEE_SmartGridDesignIdea.
