@@ -23,4 +23,6 @@ Provides and overview of the Digital IC VLSI Design project.
 
 Advanced knowledge reference :  https://github.com/alpaddesai/FirmwareDesign , https://github.com/alpaddesai/AnalogDesign , https://github.com/alpaddesai/ComputerArchitecture , https://github.com/alpaddesai/RFMicroelectronics , https://github.com/alpaddesai/EmbeddedDesign and https://github.com/alpaddesai/MixedSignal_SystemOnChip
 
+Further Details Reference: 
+https://github.com/alpaddesai/PowerandInfluentialSkills , https://github.com/alpaddesai/MSEE_SmartGridDesignIdea, https://github.com/alpaddesai/MBA_BusinessDevelopmentMergersAcquisitionsIdea, https://github.com/alpaddesai/EngineeringProjectManagement and https://github.com/alpaddesai/RealEstatePortfolioIdea_Travel.
 
