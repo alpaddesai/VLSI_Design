@@ -14,6 +14,7 @@ Provides and overview of the Digital IC VLSI Design project.
 ## Layout
 ![image](VLSILayout.png)
 
+## Memory Design
 ![image](Output.png)
 
 ## VLSI Certification
