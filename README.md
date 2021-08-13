@@ -7,14 +7,17 @@ Provides and overview of the Digital IC VLSI Design project.
 
 ## Schematic Design
 ![image](SchematicDesign.png)
+
+## DRAM
 ![image](DRAM.png)
 ![image](DRAM_Orcad.png)
+
+## SRAM
 ![image](SRAM.jpg)
 
 ## Layout
 ![image](VLSILayout.png)
 
-## Memory Design
 ![image](Output.png)
 
 ## VLSI Certification
