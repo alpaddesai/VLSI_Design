@@ -2,7 +2,7 @@
 
 Provides and overview of the Digital IC VLSI Design project.
 
-## VLSI
+## VLSI Design 
 ![image](image1.jpg)
 
 ## Schematic Design
@@ -16,6 +16,7 @@ Provides and overview of the Digital IC VLSI Design project.
 
 ![image](Output.png)
 
+## VLSI Certification
 ![image](VLSI_Design_Certification.jpg)
 
 ## Ethics and Excellence
