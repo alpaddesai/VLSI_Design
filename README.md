@@ -28,3 +28,4 @@ Provides an overview of the Digital IC VLSI Design Project.
 
 Advanced knowledge reference :  https://github.com/alpaddesai/FirmwareDesign , https://github.com/alpaddesai/AnalogDesign , https://github.com/alpaddesai/ComputerArchitecture , https://github.com/alpaddesai/RFMicroelectronics , https://github.com/alpaddesai/EmbeddedDesign, https://github.com/alpaddesai/PCBSignalIntegrity_EEM , https://github.com/alpaddesai/WirelessNetworkingProducts and https://github.com/alpaddesai/MixedSignal_SystemOnChip
 
+Additional details: https://github.com/alpaddesai/MSEE_SmartGridDesignIdea
