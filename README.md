@@ -26,7 +26,4 @@ Provides an overview of the Digital IC VLSI Design Project.
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
-## ASIC Design and Testing Certificate
-![image](ASICDesignTesting.png)
-
 Advanced knowledge reference :  https://github.com/alpaddesai/FirmwareDesign 
