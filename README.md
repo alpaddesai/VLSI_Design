@@ -25,6 +25,5 @@ Provides an overview of the Digital IC VLSI Design Project.
 
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
-### https://www.rolex.com/ ??
 
 Advanced knowledge reference :  https://github.com/alpaddesai/FirmwareDesign 
