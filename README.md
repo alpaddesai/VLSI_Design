@@ -26,4 +26,6 @@ Provides an overview of the Digital IC VLSI Design Project.
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
+![image](USCopyrightCertificate.png)
+
 Advanced knowledge reference :  https://github.com/alpaddesai/FirmwareDesign 
