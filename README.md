@@ -23,6 +23,9 @@ Provides an overview of the Digital IC VLSI Design Project.
 ## VLSI Certification
 ![image](VLSI_Design_Certification.jpg)
 
+## Exam
+![image](CFAExam.jpg)
+
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
