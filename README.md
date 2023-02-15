@@ -28,4 +28,4 @@ Provides an overview of the Digital IC VLSI Design Project.
 
 ![image](USCopyrightCertificate.png)
 
-Advanced knowledge reference :  https://github.com/alpaddesai/DesignEngineering
+Advanced knowledge reference :  https://github.com/alpaddesai/ArchitecturalProductDesign
